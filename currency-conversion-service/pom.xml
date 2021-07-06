@@ -9,7 +9,7 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hcl.traning.microservices</groupId>
+	<groupId>com.fullstackjavadevelopercommunity.traning.microservices</groupId>
 	<artifactId>currency-conversion-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>currency-conversion-service</name>
